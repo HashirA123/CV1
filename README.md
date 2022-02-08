@@ -1,2 +1,2 @@
 # CV1
-Hashir Ahmeds personal website.
+Hashir Ahmed's personal website.
